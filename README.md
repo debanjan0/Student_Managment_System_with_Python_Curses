@@ -1,7 +1,7 @@
 
 <html>
 <body>
-  <iframe width="560" height="315" src='https://dbdiagram.io/embed/6278b2287f945876b6dc3e93'> </iframe>
+  <img src=https://github.com/debanjan0/Student_Managment_System_with_Python_Curses/blob/main/stu_man_sys.png>
 </body>
 </html>
 
